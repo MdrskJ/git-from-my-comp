@@ -1,2 +1,2 @@
-print('я трениркуюсь с гитом')
+print("My first Git program!!!")
 print('я что-то добавил первый раз')
