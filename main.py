@@ -1,3 +1,3 @@
-print("My first Git program!!!")
-print('я что-то добавил первый раз')
-ptint('меня зовут Яша')
+print('меня зовут Яша')
+print('2023')
+
